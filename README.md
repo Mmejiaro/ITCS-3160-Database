@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I took an existing database (credit to ...) and added an additional feature which is the rating system. For the Resturants and Drivers. By utilizing MySQL.
+In this project, I took an existing database (credit to Mavericks group being used for educational purposes only) and added an additional feature which is the rating system. For the Resturants and Drivers. By utilizing MySQL.
 
 ## Use Case
    The customer must have recived their order before reviewing. Customer is given the option to rate the resturant and/or driver. The customer selects the number of stars (min of 1 and max of 5) they want to give the driver and/or resturant. The customer also can optional add a comment. Customer can search for reviews for both the resturant and driver. The resturant and driver can view the reviews at any given time. The resturant is the only one allowed to give feedback on the reviews.
