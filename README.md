@@ -1,5 +1,5 @@
 # ITCS-3160-Database
-
+Michael Mejia
 ## Description
 
 In this project, I took an existing database (credit to Mavericks group being used for educational purposes only) and added an additional feature which is the rating system. For the Resturants and Drivers. By utilizing MySQL.
