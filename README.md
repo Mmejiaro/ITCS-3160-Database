@@ -17,3 +17,6 @@ In this project, I took an existing database (credit to Mavericks group being us
 - Driver and Restaurant cannot delete ratings
 - Each Rating will have an optional detail
 - A minimum of 1 star and a maximum of 5 stars is allowed
+
+## EERD
+![eerb](https://user-images.githubusercontent.com/54326315/113518669-c7b1a900-9555-11eb-9fb0-036a79c0dca7.png)
